@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raynaldo333
-- 👀 I’m interested in learning as much as I can and maybe become a software engineer someday
-- 🌱 I’m currently learning python
+- 👀 I’m a electronics engineer, currently learning how to code and hopefully be a self taught software engineer.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
